@@ -1,0 +1,19 @@
+{
+  "City" : [
+    {
+      "id" : "K1",
+      "name": "Kolkata",
+      "code": "CCU"
+    },
+    {
+      "id" : "M1",
+      "name": "Mumbai",
+      "code": "BOM"
+    },
+    {
+      "id" : "C1",
+      "name": "Chennai",
+      "code": "MAA"
+    }
+  ]
+}
